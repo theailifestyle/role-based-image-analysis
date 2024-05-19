@@ -72,15 +72,15 @@ client = OpenAI(api_key='your-openai-api-key')
 
 ### Safety Alerter 🚨
 
-![Safety Alerter](screenshots/safety_alerter.png)
+![Safety Alerter](SafetyAlerter.png)
 
 ### Meal Planner 🍲
 
-![Meal Planner](screenshots/meal_planner.png)
+![Meal Planner](Meal Planner.png)
 
 ### Know It All 📚
 
-![Know It All](screenshots/know_it_all.png)
+![Know It All](KnowItAll.png)
 
 ## License
 
