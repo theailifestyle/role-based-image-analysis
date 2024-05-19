@@ -76,7 +76,7 @@ client = OpenAI(api_key='your-openai-api-key')
 
 ### Meal Planner 🍲
 
-![Meal Planner](Meal Planner.png)
+![Meal Planner](Meal%20Planner.png)
 
 ### Know It All 📚
 
